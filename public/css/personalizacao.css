@@ -1,0 +1,62 @@
+#quadroprincipal{
+
+margin-top: 50px;
+padding-top: 50px;
+}
+
+#botoes{
+    float: right;
+    width: 50px;
+    margin-right: 24px;
+}
+
+#myicones {
+    position: fixed;
+    bottom: 0;
+    color:#303030;
+}
+
+#myicones li {
+    cursor: pointer;
+}
+
+ul, li {
+    list-style:none;
+    margin-top: 3px;
+}
+
+.tarefa{
+    max-width:650px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+#containertarefa{
+    max-width:700px;
+}
+
+.tarefa .card-header{
+    font-weight: bold;
+}
+
+/* .tarefa .card-body{
+    background-color: #E8C9C3;
+}
+ */
+
+
+.alta {
+    background-color: #EBFF9B;
+ }
+
+.baixa{
+     background-color: #86FAA9;
+}
+
+.normal {
+    background-color: #86E5FA;
+}
+
+.mostrar{
+    display: block;
+}
